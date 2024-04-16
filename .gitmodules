@@ -1,0 +1,3 @@
+[submodule "Files"]
+	path = docs
+	url = https://github.com/4vir4l/StyleGAN2-OASIS/tree/topic-recognition/recognition/StyleGAN2-OASIS_45711110
